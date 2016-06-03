@@ -1,3 +1,1 @@
-(function(){
-	var app=angular.module('llibrowser',[]);
-})();
+var app=angular.module('store',[]);
